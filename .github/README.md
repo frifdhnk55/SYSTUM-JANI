@@ -1,12 +1,12 @@
 ━━━━━━━━━━━━━━━━━━━━ 
 
 <h2 align="center">
-     ──「 𝐒𝐘𝐒𝐓𝐔𝐌 𝓧 𝐌𝐔𝐒𝐈𝐂 」──
+     ──「 •─╼⃝𖠁 𝐊𝖺𝗏𝗒𝖺 ꭙ 𝐌ᴜsɪᴄ 𖠁⃝╾─• ! 」──
 </h2>
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/a97b0a381fa37a82b4213.jpg">
+  <img src="https://files.catbox.moe/238icx.jpg">
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
    <p align="center">
-     <img src="https://graph.org/file/6dbf205e018a9e7db2bad.jpg">
+     <img src="https://files.catbox.moe/238icx.jpg">
      </p>
 
 <h3 align="center">
@@ -64,11 +64,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/BRANDED_WORLD"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/D_K_D_N"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/BRANDRD_BOT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/D_K_D_N"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʙʀᴀɴᴅᴇᴅ](https://github.com/WCGKING) ғᴏʀ [ʙʀᴀɴᴅᴇᴅ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/WCGKING/SYSTUM). </b>
