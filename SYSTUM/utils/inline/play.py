@@ -49,9 +49,9 @@ def stream_markup_timer(_, chat_id, played, dur):
     elif 70 <= umm < 80:
         bar = "────────❤️‍🔥──"
     elif 80 <= umm < 95:
-        bar = "𝗔𝗻𝗸𝗶𝘁 𝗠𝘂𝘀𝗶𝗰"   
+        bar = "──────────❤️‍🔥"   
     else:
-        bar = "𝝩𝝜𝝚 𝗖𝗟𝝠𝗦𝗦𝗬"
+        bar = "  𝗝𝗮𝗻𝗶❤️‍🔥𝗠𝘂𝘀𝗶𝗰  "
         
     buttons = [
         [
@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="✨𝗢𝘄𝗻𝗲𝗿", url="https://t.me/II_CLASSY_Il",
+                text="𝗢𝘄𝗻𝗲𝗿  💬", url="https://t.me/Jani_Owner",
             ),
             InlineKeyboardButton(
-                text="✨𝗖𝗵𝗮𝘁", url="https://t.me/+LM9Qvb7HmTA4NjI1",
+                text="𝗖𝗵𝗮𝘁  💬", url="https://t.me/+ZInYo4WtbRU0NzU1",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -91,10 +91,10 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url="https://t.me/D_K_D_N",
+                text="ᴏᴡɴᴇʀ", url="https://t.me/Jani_Owner",
             ),
             InlineKeyboardButton(
-                text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+LM9Qvb7HmTA4NjI1",
+                text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/+ZInYo4WtbRU0NzU1",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
