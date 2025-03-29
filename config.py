@@ -14,13 +14,13 @@ API_HASH = getenv("API_HASH",)
 BOT_TOKEN = getenv("BOT_TOKEN",)
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "kavya_music_robot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Jani_Music_Robot")
 
 # Get Your repo
-REPO_LINK = getenv("REPO_LINK" , "https://t.me/D_K_D_N")
+REPO_LINK = getenv("REPO_LINK" , "https://t.me/Jani_RP")
 
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "Ankit")
+BOT_NAME = getenv("BOT_NAME" , "Jani")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI",)
@@ -41,15 +41,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Vipchor/SYSTUM",
+    "https://github.com/frifdhnk55/SYSTUM-JANI",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/D_K_D_N")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+LM9Qvb7HmTA4NjI1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+ZInYo4WtbRU0NzU1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ZInYo4WtbRU0NzU1")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,10 +87,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://files.catbox.moe/238icx.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/kd8gbd.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://files.catbox.moe/238icx.jpg"
+    "PING_IMG_URL", "https://files.catbox.moe/kd8gbd.jpg"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
 STATS_IMG_URL = "https://te.legra.ph/file/e906c2def5afe8a9b9120.jpg"
