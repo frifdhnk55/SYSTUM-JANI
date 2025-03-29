@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH",)
 BOT_TOKEN = getenv("BOT_TOKEN",)
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "@Jani_Music_Robot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Jani_Music_Robot")
 
 # Get Your repo
 REPO_LINK = getenv("REPO_LINK" , "https://t.me/Jani_RP")
